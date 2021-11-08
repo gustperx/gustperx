@@ -6,8 +6,6 @@ Full Stack Developer 👨‍💻, constantly learning, I like to solve problems 
 
 - 🌱 I’m currently learning English / React / Python
 
-- 📫 How to reach me: **hola@gustperx.com**
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/gustperx/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/gustperx) 
 
