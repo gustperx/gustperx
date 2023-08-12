@@ -1,4 +1,4 @@
-## Hi! I'm [Gustavo Perez](https://gustperx.com). Nice to meet you 👋
+## Hi! I'm Gustavo Perez. Nice to meet you 👋
 
 Full Stack Developer 👨‍💻, constantly learning, I like to solve problems with code and share knowledge 🧠
 
